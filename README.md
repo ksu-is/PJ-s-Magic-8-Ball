@@ -1,2 +1,7 @@
 # Magic-8-Ball
-A program sed to ask for counsel or read fortunes with a dedicated GUI. 
+The Magic 8-Ball program allows you to ask for counsel or read fortunes. This magic 8-ball will veer you in the direction of the solution to your issues whenever you find yourself in a predicament, regardless of what time of day it may be.
+Try it out and be a person of curiosity. 
+
+# Features
+
+Will have a dedicated Graphic User Inferface (GUI) with the program.
