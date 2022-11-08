@@ -4,4 +4,4 @@ Try it out and be a person of curiosity.
 
 # Features
 
-Will have a dedicated Graphic User Inferface (GUI) with the program.
+Program will have a dedicated Graphic User Inferface (GUI) with the program.
