@@ -1,7 +1,7 @@
 - [x] Create Repository
 - [x] Create ReadMe & License
 - [x] Create Road Map
-- [ ] Find related repositories and assess the code
+- [x] Find related repositories and assess the code
 - [ ] Create base code
 - [ ] Test and troubleshoot base code
 - [ ] Rework code as neccesary
