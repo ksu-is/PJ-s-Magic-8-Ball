@@ -36,3 +36,7 @@ def play_game():
     time.sleep(2)
     print("...Sorry got distracted... ")
     time.sleep(1.5)
+    print("...Aha, got it... ")
+    time.sleep(2)
+    print(responses[random.randint(0, len(responses) - 1)])
+    play_again()  
