@@ -24,3 +24,7 @@ responses = [
     "My sources say no.",
     "Outlook not so good.",
     "Very doubtful."]
+
+
+def play_game():
+    inp = input('What would you like to ask the mighty magic 8 ball? ')
