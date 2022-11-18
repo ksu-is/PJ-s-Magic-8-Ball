@@ -32,3 +32,7 @@ def play_game():
     time.sleep(1)
     print("Let me see... ")
     time.sleep(1.25) 
+    print("...Still thinking... ")
+    time.sleep(2)
+    print("...Sorry got distracted... ")
+    time.sleep(1.5)
