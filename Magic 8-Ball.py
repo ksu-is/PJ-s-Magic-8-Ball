@@ -28,3 +28,7 @@ responses = [
 
 def play_game():
     inp = input('What would you like to ask the mighty magic 8 ball? ')
+    print("You asked: '" + str(inp) + "'")
+    time.sleep(1)
+    print("Let me see... ")
+    time.sleep(1.25) 
