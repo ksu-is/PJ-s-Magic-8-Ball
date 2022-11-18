@@ -45,3 +45,7 @@ def play_again():
     quest = input("Would you like to ask another question? ")
     if quest == 'yes':
         print('')
+        play_game()
+    elif quest != 'yes':
+        print('')
+        time.sleep(1.5)
