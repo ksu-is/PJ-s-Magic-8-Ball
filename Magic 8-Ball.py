@@ -40,3 +40,8 @@ def play_game():
     time.sleep(2)
     print(responses[random.randint(0, len(responses) - 1)])
     play_again()  
+
+def play_again():
+    quest = input("Would you like to ask another question? ")
+    if quest == 'yes':
+        print('')
