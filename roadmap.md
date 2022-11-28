@@ -6,7 +6,7 @@
 - [x] Test and troubleshoot base code
 - [x] Rework code as neccesary
 - [x] Test code until no errors
-- [x ] Start working on the GUI (Tkinter)
+- [x] Start working on the GUI (Tkinter)
 - [x] Test and troubleshoot GUI - Make sure it's running with the code
 - [ ] Make small modifications if necessary.
 - [ ] Review & finalize code.
