@@ -5,3 +5,5 @@ Try it out and be a person of curiosity.
 # Features
 
 Program will have a dedicated Graphic User Inferface (GUI) with the program.
+
+Quiz 1
