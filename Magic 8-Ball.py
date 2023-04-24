@@ -42,7 +42,7 @@ def play_game():
     play_again()  
 
 def play_again():
-    quest = input("Would you like to ask another question? ")
+    quest = input("What else you want from me fool? ")
     if quest == 'yes':
         print('')
         play_game()
