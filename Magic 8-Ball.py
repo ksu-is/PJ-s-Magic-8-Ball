@@ -1,7 +1,7 @@
 # This is where the code is going to be.
 import random
 import time
-pip install customtkinter
+
 
 responses = [
     "It is certain.",
