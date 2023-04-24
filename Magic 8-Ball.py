@@ -4,7 +4,7 @@ import time
 
 
 responses = [
-    "It is certain.",
+    "Fasho",
     "It is decidedly so.",
     "Without a doubt.",
     "Yes definitely.",
