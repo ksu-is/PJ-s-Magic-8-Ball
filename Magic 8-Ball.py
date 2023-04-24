@@ -49,7 +49,7 @@ def play_again():
     elif quest != 'yes':
         print('')
         time.sleep(1.5)
-        print('...Goodbye human ...')
+        print('...Later bro! ...')
         quit()
 
 play_game()
