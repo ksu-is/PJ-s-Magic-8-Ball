@@ -4,3 +4,4 @@ Try it out and be a person of curiosity.
 
 # Changes to the code
 
+Timer setting was switched from 1 to .5 
